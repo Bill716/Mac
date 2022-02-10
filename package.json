@@ -8,20 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Allvaa/lavalink-musicbot.git"
+    "url": "git+https://github.com/Bill716/Mac"
   },
-  "author": "Allvaa",
+  "author": "Bill",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Allvaa/lavalink-musicbot/issues"
+    "url": "https://github.com/Bill716/Mac/issues"
   },
-  "homepage": "https://github.com/Allvaa/lavalink-musicbot#readme",
+  "homepage": "https://github.com/Bill716/Mac#readme",
   "dependencies": {
     "@lavacord/discord.js": "0.0.7",
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0",
     "lavasfy": "2.2.1",
-    "node-fetch": "^3.2.0",
     "pretty-ms": "^7.0.1"
   },
   "devDependencies": {
